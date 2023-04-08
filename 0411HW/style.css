@@ -1,0 +1,49 @@
+@charset "utf-8";
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: #E8E8E8;
+    border-radius: 15px;
+    flex: 1;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: #BFBFBF;
+    border-radius: 15px;
+    flex: 2;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: #96939B;
+    border-radius: 15px;
+    flex: 1;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.container {
+    display: flex;
+}
